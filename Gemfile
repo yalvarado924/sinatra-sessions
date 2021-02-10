@@ -5,7 +5,7 @@ source "https://rubygems.org"
 gem 'eventmachine', '~>1.0.5'
 gem 'sinatra'
 gem 'rake'
-gem 'thin'
+#gem 'thin'
 gem 'shotgun'
 gem 'pry'
 gem 'require_all'
